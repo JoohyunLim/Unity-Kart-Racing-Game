@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: f793212879eed8a489bd6480ad730461
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: car-farara-sport-white_Cube.919_lights
+    100004: car-farara-sport-white_Cube.919_lights.orange
+    100006: car-farara-sport-white_Cube.919_lights.red.001
+    100008: car-farara-sport-white_Cube.919_metal.001
+    100010: car-farara-sport-white_Cube.919_metal.black.001
+    100012: car-farara-sport-white_Cube.919_tires.001
+    100014: car-farara-sport-white_Cube.919_white.001
+    100016: car-farara-sport-white_Cube.919_windows.001
+    400000: //RootNode
+    400002: car-farara-sport-white_Cube.919_lights
+    400004: car-farara-sport-white_Cube.919_lights.orange
+    400006: car-farara-sport-white_Cube.919_lights.red.001
+    400008: car-farara-sport-white_Cube.919_metal.001
+    400010: car-farara-sport-white_Cube.919_metal.black.001
+    400012: car-farara-sport-white_Cube.919_tires.001
+    400014: car-farara-sport-white_Cube.919_white.001
+    400016: car-farara-sport-white_Cube.919_windows.001
+    2300000: car-farara-sport-white_Cube.919_lights
+    2300002: car-farara-sport-white_Cube.919_lights.orange
+    2300004: car-farara-sport-white_Cube.919_lights.red.001
+    2300006: car-farara-sport-white_Cube.919_metal.001
+    2300008: car-farara-sport-white_Cube.919_metal.black.001
+    2300010: car-farara-sport-white_Cube.919_tires.001
+    2300012: car-farara-sport-white_Cube.919_white.001
+    2300014: car-farara-sport-white_Cube.919_windows.001
+    3300000: car-farara-sport-white_Cube.919_lights
+    3300002: car-farara-sport-white_Cube.919_lights.orange
+    3300004: car-farara-sport-white_Cube.919_lights.red.001
+    3300006: car-farara-sport-white_Cube.919_metal.001
+    3300008: car-farara-sport-white_Cube.919_metal.black.001
+    3300010: car-farara-sport-white_Cube.919_tires.001
+    3300012: car-farara-sport-white_Cube.919_white.001
+    3300014: car-farara-sport-white_Cube.919_windows.001
+    4300000: car-farara-sport-white_Cube.919_lights
+    4300002: car-farara-sport-white_Cube.919_lights.orange
+    4300004: car-farara-sport-white_Cube.919_lights.red.001
+    4300006: car-farara-sport-white_Cube.919_metal.001
+    4300008: car-farara-sport-white_Cube.919_metal.black.001
+    4300010: car-farara-sport-white_Cube.919_tires.001
+    4300012: car-farara-sport-white_Cube.919_white.001
+    4300014: car-farara-sport-white_Cube.919_windows.001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lights
+    second: {fileID: 2100000, guid: cb54c940e10551f4e976aa702f7dab1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lights.orange
+    second: {fileID: 2100000, guid: 710edd0158c606b4c8ace38818da4520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lights.red.001
+    second: {fileID: 2100000, guid: 1f618bd40fded154995d2a1eb0304c86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.001
+    second: {fileID: 2100000, guid: 163d7720ab726d448a685d70f368685e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.black.001
+    second: {fileID: 2100000, guid: 57bcc9422135c21469356f3b65566167, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tires.001
+    second: {fileID: 2100000, guid: ee26e5ce3b283f7439ece147b90a46ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white.001
+    second: {fileID: 2100000, guid: 36090134fd37cb946a8d64bb96ad0768, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windows.001
+    second: {fileID: 2100000, guid: e0a5a3a9fcfbec54d8666ddb5f91c0a0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

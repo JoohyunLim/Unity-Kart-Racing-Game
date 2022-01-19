@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 9dcfe1de3e52446478d86ea628560c5e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - coinParticlePrefab: {fileID: 100000, guid: 199471dac6cee6647bdf03402aacab6c, type: 2}
+  - bigCoinParticlePrefab: {fileID: 100000, guid: 6bca933016c102040adf4be33e5320a1,
+      type: 2}
+  - skin: {fileID: 11400000, guid: 91c6c50fe2cc79641b61755ddec804a5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
